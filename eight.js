@@ -1,7 +1,7 @@
 // Typeof operator
 
 // Data types (Primitive data types)
-// String: "harhit"
+// String: "adnan"
 // Number: 2, 4, 5.6
 // Booleans: True or False
 // Undefined
@@ -10,10 +10,10 @@
 // Symbol
 
 let age1 = 22;
-let firstName = "harshit";
+let firstName = "adnan";
 
 console.log(typeof age1);
-console.log(typeof "harshit");
+console.log(typeof "adnan");
 
 // 22 -> "22"
 // Convert number to string.
