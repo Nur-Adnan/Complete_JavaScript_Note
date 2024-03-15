@@ -10,13 +10,13 @@
 
 // declare a variable
 
-var firstName = "Harshit";
+var firstName = "Nur";
 
 // use a variable
 console.log(firstName);
 
 // change value
 
-firstName = "Mohit";
+firstName = "Adnan";
 
 console.log(firstName);
