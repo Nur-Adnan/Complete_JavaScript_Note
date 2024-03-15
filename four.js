@@ -1,6 +1,6 @@
 // let keyword
 // declare variable with let keyword
 
-let firstName = "harshit";
-firstName = "Mohit";
+let firstName = "nur";
+firstName = "adnan";
 console.log(firstName);
